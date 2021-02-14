@@ -1,2 +1,1 @@
-print("yababa")
-print("another change")
+x = "yaki"
