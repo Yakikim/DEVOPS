@@ -1,2 +1,2 @@
-print("yababa")
-print("another change")
+
+y = 2
